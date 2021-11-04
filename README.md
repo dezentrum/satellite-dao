@@ -28,3 +28,9 @@ Learn more here
 - https://dizh.ch/innovationsprogramm/projekte/2021-1-no1s1/
 
 ## Gallery
+
+
+![Satellite](http![2018_09_06_Dezentrum_Satellite_00002](https://user-images.githubusercontent.com/8779710/140314310-4bb304e3-1a85-4b47-8c5f-3816a8d09c92.jpg)
+![Satellite Travels](https://user-images.githubusercontent.com/8779710/140314498-b1c41717-b146-41d3-b13d-5cc685ad8469.JPG)
+
+
