@@ -13,11 +13,11 @@ Now is the time to suggest Satellite’s next stop: join our Discord to leave a 
 The guild of transporters is a very honorable organization. Only a few selected knights get the honor to transport the Satellite. The guild of transporters are responsible for the treasury, and will spend the funds in line with the Satellite DAOs Community.
 
 ### Code of Conduct for transporters
-The transporter makes sure she uses climate friendly modes of transport and arrives punctual at the suggested stops. 
-The transporter can choose freely from all the suggestions in the suggestion channel. 
-The transporter coordinates with the inviting person, such that the timing works for both sides.
-Once the transporter arrives, she and the inviting person can mint and collect her special NFT by using the current nonce displayed on the satellite. 
-The transporter pledges to collect memories from the trip as a tweet (280 Characters and at least one photo).
+The transporter makes sure she uses climate friendly modes of transport and arrives punctual at the suggested stops.  
+The transporter can choose freely from all the suggestions in the suggestion channel.  
+The transporter coordinates with the inviting person, such that the timing works for both sides.  
+Once the transporter arrives, she and the inviting person can mint and collect her special NFT by using the current nonce displayed on the satellite.  
+The transporter pledges to collect memories from the trip as a tweet (280 Characters and at least one photo).  
 
 ## Refrerences
 The satellites older brother no1s1 is already fullfilling its purpose as provider for space.
