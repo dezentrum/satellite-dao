@@ -1,4 +1,4 @@
-# satellite-dao
+# Satellite DAO
 With objects becoming more intelligent and the adoption of decentralized infrastructure, we envision a future where we live in constant exchange with autonomous software-based agents. 
 As such, the Satellite DAO showcases the potential of self-organisation, autonomous entities, distributed ownership and migration; it fosters an open discourse and much needed research in this area. 
 The Satellite DAO administers the treasury and distributes missions to the community, thereby enabling the Satellite to travel the world. It wants to visit the marvels of earth, connect with humans and find herself, before she is sent to outer space. 
